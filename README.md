@@ -1,6 +1,6 @@
 # react-big-calendar
 
-An events calendar component built for React and made for modern browsers (read: IE10+) and uses flexbox over the classic tables-ception approach.
+An events calendar component built for React and made for modern browsers (read: IE10+) and uses flexbox over the classic tables-ception approacha.
 
 [**DEMO and Docs**](http://jquense.github.io/react-big-calendar/examples/index.html)
 
